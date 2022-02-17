@@ -1,0 +1,48 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    width: 50%;
+    margin: 0 auto;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+.article-section {
+    width: 45%;
+}
+
+.aside-section div, aside {
+    width: 45%;
+    display: inline-block;
+}
+
+aside {
+    border-left: 2px solid hotpink;
+    border-bottom: 2px solid hotpink;
+    background-color: yellow;
+    padding: 15px;
+}
+
+code {
+    background-color: lightblue;
+    padding: 5px;
+}
+
+h2, h3 {
+margin: 10px;
+}
+
+footer {
+    margin: 120px auto;
+    padding: 15px;
+    background-color: blue;
+    text-align: center;
+}
